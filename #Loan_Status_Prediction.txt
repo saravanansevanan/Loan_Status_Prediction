@@ -1,0 +1,12 @@
+#Loan_Status_Prediction
+A finance company gives loans to people before approving the loan, the company analysis the various credientials of the loan applicants and decides the eligibility of the loan application.
+
+#Problem statement:
+--To analysis the various credientials of the loan applicantication and decides the eligibility based on the finance company norms and then to accept or reject the loan amount requested by the customer.
+
+#Workflow:
+--Data collection from the applicants
+--Pre processing the data to fit the model
+--Split the data into training and testing data (Train-Test Split)
+--Fit the data into desired ML model(Support Vector Machine Model)
+--Feed the new data into trained SVM model and get the prediction
